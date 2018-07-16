@@ -32,7 +32,7 @@ fastlane beta
 ```
 
 
-              |  fastlane
+ :-)              |  fastlane
 --------------------------|------------------------------------------------------------
 :sparkles: | Connect all iOS and Android build tools into one workflow (both `fastlane` tools and third party tools)
 :monorail: | Define different `deployment lanes` for App Store deployment, beta builds or testing
